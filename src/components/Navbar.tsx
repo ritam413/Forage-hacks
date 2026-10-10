@@ -163,7 +163,7 @@ export const Navbar: React.FC<NavbarProps> = ({
                   className="text-[9px] font-mono font-semibold bg-[#E6F0FA] dark:bg-[#121317] text-[#426188] dark:text-[#9194a1] px-1 py-0.2 border border-[#D0DFEE] dark:border-[#1c1d22]"
                   style={{ borderRadius: '4px' }}
                 >
-                  SIH-26027
+                  FORAGE-HACKS
                 </span>
               </div>
             </div>

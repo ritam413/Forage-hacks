@@ -91,7 +91,7 @@ export default function RootLandingPage() {
           {/* Eyebrow */}
           <div className="hero-badge inline-flex items-center gap-2 px-3 py-1 rounded-[6px] bg-[#121317] border border-[#1c1d22] text-[11px] font-mono text-amber-400 mb-5">
             <span className="w-2 h-2 rounded-full bg-amber-400 animate-pulse" />
-            <span>SIH-26027 • Autonomous Corridor Maintenance Intelligence</span>
+            <span>FORAGE-HACKS • Autonomous Corridor Maintenance Intelligence</span>
           </div>
 
           {/* Headline (Max 2 lines, display font) */}

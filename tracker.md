@@ -1,5 +1,27 @@
 # Agent Handoff Log (tracker.md)
 
+## 2026-10-10 — Update Hackathon Branding to Forage-Hacks
+
+### Objective
+Update project badges and hero tags from legacy SIH-26027 references to FORAGE-HACKS branding across application navigation and landing surfaces.
+
+### Changes Made
+- Updated hackathon badge in [`src/components/Navbar.tsx`](file:///d:/Games/Hckthons/nemotron/src/components/Navbar.tsx) from `SIH-26027` to `FORAGE-HACKS`.
+- Updated landing navbar badge in [`src/components/Landing/LandingNavbar.tsx`](file:///d:/Games/Hckthons/nemotron/src/components/Landing/LandingNavbar.tsx) from `SIH-26027` to `FORAGE-HACKS`.
+- Updated hero eyebrow tag in [`src/app/page.tsx`](file:///d:/Games/Hckthons/nemotron/src/app/page.tsx) from `SIH-26027 • Autonomous Corridor Maintenance Intelligence` to `FORAGE-HACKS • Autonomous Corridor Maintenance Intelligence`.
+
+### Files Changed
+- `src/components/Navbar.tsx`
+- `src/components/Landing/LandingNavbar.tsx`
+- `src/app/page.tsx`
+- `tracker.md`
+
+### Verification
+- Code inspected and changes verified.
+- Prepared and pushed commits to remote GitHub repository `origin/main`.
+
+---
+
 ## 2026-10-10 — Git Repository Initialization & Initial Push to GitHub
 
 ### Objective
