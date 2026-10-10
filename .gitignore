@@ -1,0 +1,64 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+/.venv
+/backend/.venv
+/backend/.pytest_cache
+.pytest_cache/
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env*.local
+.env
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
+
+# Chat Transcripts & Raw Brain Dumps
+docs/chats/
+docs/context/
+docs/features_implemented/
+docs/tracker/
+.system_generated/
+*.log
+
+# Agent Customizations, Rules & Skills
+.agents/
+.gemini/
+
+# Media binaries
+*.mp4
+*.mkv
+*.avi
+
+# Repomix & Large bundle dumps
+repomix-output.*
